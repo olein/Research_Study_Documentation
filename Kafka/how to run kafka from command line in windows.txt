@@ -1,0 +1,30 @@
+Step 01:
+	Download kafka kafka_2.11-1.1.0.tgz
+
+Step 02:
+	Start zookeeper servver
+	Go to bin/windows folder
+	run zookeeper-server-start.bat ../../config/zookeeper.properties
+	
+Step 03:
+	start broker
+	Go to server.properties and check
+		broker.id=1
+		listeners=PLAINTEXT://:9091
+		log.dirs=/tmp/kafka-logs-1
+	Run kafka-server-start.bat ../../config/server.properties
+	
+Step 04: 
+	Create a topic (test)
+	create topic : kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
+	show list of topic : kafka-topics.bat --list --zookeeper localhost:2181
+	
+Step 05:
+	start consumer
+	kafka-console-consumer.bat --bootstrap-server localhost:9091 --topic test --from-beginning
+	
+step 06:
+	start producer
+	kafka-console-producer.bat --broker-list localhost:9091 --topic test
+	
+Now type message in consumer console and enter. Producer will start printing the message.

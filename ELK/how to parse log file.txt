@@ -1,0 +1,15 @@
+Add this grok configuration in logstash file:
+
+filter {
+	grok {
+		match => { "message" => "\[%{TIMESTAMP_ISO8601:raw_timestamp}\] %{LOGLEVEL:log-level} %{GREEDYDATA:log-message}" }
+		
+		remove_field => [ "message" ]		
+	}
+	
+	date {
+      match => [ "raw_timestamp", "YYYY-MM-dd HH:mm:ss,SSS" ]
+    }
+}
+
+date will be parsed to timestamp field

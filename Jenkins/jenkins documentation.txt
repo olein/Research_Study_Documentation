@@ -1,0 +1,19 @@
+1. run enkins: java -jar jenkins.war --httpPort=9090
+2. Brows : http://localhost:9090
+
+3. login : fahim : inazuma11
+
+-------------------------
+
+1. add git plugin
+2. add gradle plugin
+3. configure git from global configuration
+4. install gradle locally
+5. add deploy to container plugin
+
+-----------------------------------
+Schedule build from jenkins
+
+1. Build Trigggers->Poll SCM->add */1 * * * *
+2. this will check every minuits if there is any change in the git repo
+3. if any changes are pushed then build and redeploy new version

@@ -1,0 +1,30 @@
+Add JSON configuration in filebeat.yml
+
+ ### JSON configuration
+
+  document_type: json
+
+  json.message_key: name
+
+
+  json.keys_under_root: true
+
+  json.overwrite_keys: true  
+  
+ Multiline configuration is not needed if it is in one line
+ 
+ For multiline JSON:
+ 
+ multiline.pattern: '^{'
+ multiline.negate: true
+ multiline.match: before
+ 
+ processors:
+    - decode_json_fields:
+        fields: ['name', 'age', 'job']
+        process_array: false
+        max_depth: 1
+        target: json
+        overwrite_keys: true
+ 
+ 

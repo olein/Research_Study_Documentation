@@ -1,0 +1,5 @@
+rabbitmq-service.bat start
+
+http://localhost:15672/mgmt.
+
+guest, guest

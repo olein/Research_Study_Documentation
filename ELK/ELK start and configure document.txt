@@ -1,0 +1,36 @@
+Elastic search:
+
+start from : bin/elasticsearch.bat
+ 
+URL: http://127.0.0.1:9200
+
+Logstash:
+ 
+Prepare a logstash-sample.conf config file and paste it to bin folder
+
+Run bin/logstash -f logstash-sample.conf
+
+Kibana:
+
+Open config/kibana.yml in an editor
+Set elasticsearch.url to point at your Elasticsearch instance
+ 
+Run bin/kibana (or bin\kibana.bat on Windows)
+ 
+Point your browser at http://localhost:5601
+
+filebeat:
+To verify your configuration, run the following command:
+
+bin/logstash -f first-pipeline.conf --config.test_and_exit
+
+To start filebeat:
+
+filebeat -e -c filebeat.yml -d "publish"
+
+steps:
+start ES
+start logstash
+start bolebeat
+start kibana
+configure filebeat path to read data with index and file type
