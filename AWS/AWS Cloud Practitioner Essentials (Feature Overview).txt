@@ -1,0 +1,35 @@
+Introductory Courses:
+
+AWS Cloud Practitioner Essentials (https://www.aws.training/Details/eLearning?id=60697)
+
+EC2:
+- Computing resource
+- Instance type: General purpose, compute optimize, Memory optimized, Accelerated computing, storage optimized
+- ELB: Load balancer
+- Messaging and queue: SNS (kinda kafka...pub/sub), SQS (kinda Redis...key,value)
+- Amazon Elastic Container Service (Amazon ECS):  highly scalable, high-performance container management system 
+  that enables you to run and scale containerized applications on AWS. supports Docker containers.
+- Amazon Elastic Kubernetes Service (Amazon EKS): fully managed service that you can use to run Kubernetes on AWS. 
+
+Database:
+- S3 : Object store : Document, image
+- EBS: Block store: delta store
+- EFS: File system: scale while needed 
+- RDS: Relational DB : MySQL, PG, Oracle
+- DynamoDB: No SQL
+- AWS Database Migration Service (AWS DMS): Migrate current database to AWS RDS database. 
+
+Security:
+- IAM
+- AWS Organizations: Consolidate and manage multiple AWS accounts within a central location.
+
+Monitoring:
+- CloudWatch: notifiaction through SNS
+- CloudTrail: Audit all events
+- AWS Trusted Advisor: inspects AWS environment in 5 categories: cost optimization, performance, security, fault tolerance, 
+  and service limits.  
+
+Billing:
+- Consolidate Bill
+- Budgets
+

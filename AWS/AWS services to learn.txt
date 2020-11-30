@@ -1,0 +1,17 @@
+AWS Services:
+
+EC2
+S3
+IAM
+RDS
+Networking
+ELB
+EBS
+API Gatewaay
+CloudWatch
+CloudTrail
+Budget
+SNS
+SQS
+Elastic Beanstalk
+ElastiCache
