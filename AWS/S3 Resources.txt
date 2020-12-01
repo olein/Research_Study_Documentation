@@ -1,0 +1,33 @@
+S3:
+=====================================
+
+Courses:
+=====================================
+
+Amazon Simple Storage Service - Closer look - Part 1 (AWS Support) (https://www.aws.training/Details/eLearning?id=55038)
+
+Amazon Simple Storage Service - Closer look - Part 2 (AWS Support) (https://www.aws.training/Details/eLearning?id=59861)
+
+Amazon Simple Storage Service (S3) Primer (https://www.aws.training/Details/Curriculum?id=32729)
+
+Deep Dive into Amazon Simple Storage Service (Amazon S3) (https://www.aws.training/Details/Curriculum?id=26930)
+
+
+Hands-On:
+=====================================
+
+Introduction to Amazon Simple Storage Service (S3) (https://amazon.qwiklabs.com/focuses/11776?parent=catalog)
+
+
+Youtube:
+=====================================
+
+Give User Access To Only One S3 Bucket Only (https://www.youtube.com/watch?v=hXRu0x_G1ag)
+
+Upload and download file from AWS S3 using AWS SDK Java (https://www.youtube.com/watch?v=2888bZsFJqY)
+
+
+Blog:
+=====================================
+
+Amazon S3 – Upload/Download files with SpringBoot Amazon S3 application. (https://grokonez.com/spring-framework/spring-cloud/amazon-s3-uploaddownload-files-springboot-amazon-s3-application)

@@ -1,8 +1,8 @@
 EC2:
-=========
+=====================================
 
 Courses:
-=========
+=====================================
 
 Introduction to Amazon Elastic Compute Cloud (EC2) (https://www.aws.training/Details/Video?id=16382)
 
@@ -14,7 +14,7 @@ Deploying and Scaling Applications with Amazon Lightsail (https://www.aws.traini
 
 
 Hands-on:
-=========
+=====================================
 
 Introduction to Amazon EC2 (https://amazon.qwiklabs.com/focuses/14761?parent=catalog)
 
@@ -22,7 +22,7 @@ Introduction to Amazon EC2 Auto Scaling (https://amazon.qwiklabs.com/focuses/148
 
 
 Youtube:
-=========
+=====================================
 
 Create EC2 Instance in AWS : Step by Step  (https://www.youtube.com/watch?v=YB_qanudIzA)
 

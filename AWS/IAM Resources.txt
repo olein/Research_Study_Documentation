@@ -1,0 +1,21 @@
+IAM: 
+=====================================
+
+Courses:
+=====================================
+
+AWS Identity and Access Management - Basics (AWS Support) (https://www.aws.training/Details/eLearning?id=54606)
+
+Authentication and Authorization with AWS Identity and Access Management (https://www.aws.training/Details/Video?id=16484)
+
+
+Hands-On:
+=====================================
+
+Introduction to AWS Identity and Access Management (IAM) (https://amazon.qwiklabs.com/focuses/10408?parent=catalog)
+
+
+Youtube:
+=====================================
+
+AWS IAM Tutorial (https://www.youtube.com/watch?v=3y596T1eH_8)
