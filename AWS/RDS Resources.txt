@@ -1,0 +1,46 @@
+RDS:
+=====================================
+
+Course:
+=====================================
+
+Amazon RDS Service Primer (https://www.aws.training/Details/eLearning?id=36999)
+
+Migrating from MySQL to Amazon RDS (https://www.aws.training/Details/eLearning?id=59024)
+
+Migrating from Oracle to Amazon RDS (https://www.aws.training/Details/eLearning?id=59023)
+
+Moving To Managed Databases on AWS (https://www.aws.training/Details/Curriculum?id=59250)
+
+
+Hands-On:
+=====================================
+
+Using Amazon RDS for Applications (https://amazon.qwiklabs.com/focuses/14833?parent=catalog)
+
+Introduction to Amazon Relational Database Service (RDS) (Linux) (https://amazon.qwiklabs.com/focuses/15605?parent=catalog)
+
+Introduction to AWS Database Migration Service (https://amazon.qwiklabs.com/focuses/15632?parent=catalog)
+
+Building VPC, S3, EC2, and RDS Products with AWS Service Catalog (https://amazon.qwiklabs.com/focuses/14218?parent=catalog)
+
+
+Youtube:
+=====================================
+AWS RDS MySQL Database Setup | Step by Step Tutorial (https://www.youtube.com/watch?v=Ng_zi11N4_c)
+
+How do I create a read replica for an Amazon RDS database? (https://www.youtube.com/watch?v=COsx7UrMGL4)
+
+How do I manage slow query logs and general logs for an RDS MySQL DB Instance? (https://www.youtube.com/watch?v=aXn4pyPgPgw)
+
+Amazon RDS Snapshot Export to S3 (https://www.youtube.com/watch?v=lyNGeDg6EII)
+
+How do I make my RDS MySQL read replica writable? (https://www.youtube.com/watch?v=j5da6d2TIPc)
+
+
+Elasticsearch: 
+=====================================
+
+Elastic cloud (https://cloud.elastic.co/home)
+
+AWS Elasticsearch Tutorial : What is Elasticsearch and How to Create it and Use it (https://www.youtube.com/watch?v=q4LNFsNdIBY)
