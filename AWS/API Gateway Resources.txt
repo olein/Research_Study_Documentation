@@ -1,0 +1,33 @@
+API Gatewaay:
+=====================================
+
+Courses:
+=====================================
+
+Introduction to Amazon API Gateway (https://www.aws.training/Details/Video?id=16452)
+
+
+Hands-On:
+=====================================
+
+Introduction to Amazon API Gateway (https://amazon.qwiklabs.com/focuses/10383?parent=catalog)
+
+
+Youtube:
+=====================================
+
+How do I implement IAM authentication for APIs in API Gateway? (https://www.youtube.com/watch?v=KXyATZctkmQ)
+
+Create API using AWS API Gateway service - Amazon API Gateway p1 (https://www.youtube.com/watch?v=UVA5Dw12aVI)
+
+Resources and Methods with Lambda integration - Amazon API Gateway p2 (https://www.youtube.com/watch?v=OIUSeiZzk6k)
+
+Deploying and invoking API Endpoint - Amazon API Gateway p3 (https://www.youtube.com/watch?v=fDTCJRDNXu8)
+
+Amazon API Gateway | Access Your Spring Boot Microservice | JavaTechie (https://www.youtube.com/watch?v=3iwItfr4N38) 
+
+
+Blog:
+=====================================
+
+Amazon API Gateway with Spring boot -Tricks and Hacks (https://medium.com/@vaquarkhan/amazon-api-gateway-with-spring-boot-tricks-and-hacks-8315d49827d)

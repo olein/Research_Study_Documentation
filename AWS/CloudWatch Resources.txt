@@ -1,0 +1,35 @@
+CloudWatch
+=====================================
+
+Courses:
+=====================================
+
+Introduction to Amazon CloudWatch (https://www.aws.training/Details/Video?id=16390)
+
+Introduction to Amazon CloudWatch Logs(https://www.aws.training/Details/Video?id=16391) 
+
+Introduction to Amazon CloudWatch Logs Insights(https://www.aws.training/Details/Video?id=27171)
+
+
+Youtube:
+=====================================
+
+Collect Metrics and Logs from Amazon EC2 instances with the CloudWatch Agent (https://www.youtube.com/watch?v=vAnIhIwE5hY)
+
+Monitor Resource Changes with Amazon CloudWatch Events (https://www.youtube.com/watch?v=-rQku_AeN_Y)
+
+Monitor Application Health Using CloudWatch ServiceLens (https://www.youtube.com/watch?v=JjoBRsdwr_k)
+
+How do I publish RDS MySQL and Aurora MySQL logs to Amazon CloudWatch? (https://www.youtube.com/watch?v=-9_Gat9cJn4)
+
+
+Hands-On Labs:
+=====================================
+
+Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights (https://amazon.qwiklabs.com/focuses/15723?parent=catalog)
+
+
+Blogs:
+=====================================
+
+Amazon Cloudwatch (https://tutorialsdojo.com/amazon-cloudwatch/)
