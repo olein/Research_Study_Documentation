@@ -1,0 +1,22 @@
+CloudTrail
+====================================
+
+Course:
+====================================
+Introduction to AWS CloudTrail (https://www.aws.training/Details/Video?id=16453)
+
+
+Blog:
+====================================
+AWS ClodTrail (https://tutorialsdojo.com/aws-cloudtrail/)
+
+
+Youtube:
+====================================
+Monitor AWS CloudTrail Log Data in Amazon CloudWatch (https://www.youtube.com/watch?v=6b_ENVFgCpA)
+
+How can I use CloudTrail to review what API calls and actions have occured in my AWS account? (https://www.youtube.com/watch?v=4ztTv5rIRv8)
+
+Monitor Unusual Activity in AWS Accounts Using CloudTrail Insights (https://www.youtube.com/watch?v=Nky1DUj9s1M)
+
+How do I search CloudTrail logs using Amazon Athena? (https://www.youtube.com/watch?v=U968FoLmwms)
