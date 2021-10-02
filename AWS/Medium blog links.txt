@@ -1,0 +1,10 @@
+Launch an EC2 instance: https://awstip.com/launch-an-ec2-instance-7e3c37c4eda2
+
+Deploy Spring boot application in AWS (Tomcat): https://awstip.com/deploy-spring-boot-application-in-aws-tomcat-bb773ab19766
+
+Deploy Spring BootAapplication in AWS (Wildfly): https://awstip.com/deploy-spring-boot-application-in-aws-wildfly-c5a991af364d
+
+Deploy a Spring Boot Application with Amazon RDS: https://aws.plainenglish.io/deploy-spring-boot-application-with-amazon-rds-7cec634ef3a1
+
+Getting Started with Spring Boot with Amazon S3: https://aws.plainenglish.io/spring-boot-with-amazon-s3-1b3a78cddb5c
+
